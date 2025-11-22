@@ -31,3 +31,4 @@ git remote set-url origin <url>
 ## subir el codigo al repositorio en github
 
 git push -u origin main
+
